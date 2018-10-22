@@ -1,0 +1,15 @@
+.thumbnail img {
+    width: 100%;
+}
+
+.thumbnail {
+    padding: 0;
+}
+
+#delete-form {
+    display: inline;
+}
+/* Use bootstrap "caption" class on the element for padding instead
+.thumbnail .caption-full {
+    padding: 9px;
+} */
